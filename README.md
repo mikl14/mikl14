@@ -1,4 +1,4 @@
-[![Header](https://github.com/mikl14/mikl14/blob/main/assets/gif2.gif)](http://gachi.bounceme.net/?form=auth)
+[![Header](https://github.com/mikl14/mikl14/blob/main/assets/gif2.gif)](http://gachi.bounceme.net/?form=auth/radio.html)
 
 About me
 
