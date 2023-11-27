@@ -2,7 +2,7 @@
 
 About me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikl14&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikl1&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Languages and Tools
 
